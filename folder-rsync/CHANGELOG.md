@@ -2,7 +2,7 @@
 
 ## 0.3.4
 
-- Added CAHNGELOG.md
+- Added CHANGELOG.md
 
 ## 0.1.2
 
