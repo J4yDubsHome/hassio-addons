@@ -1,5 +1,7 @@
 # folder-rsync
 
+Forked from https://github.com/LinusHoppe/hassio-addons to add a CHANGELOG.md back in that HA was complaining about in the logs.
+
 ## About this addon
 
 This repository is forked from https://github.com/carstenschroeder/hassio-addons.
