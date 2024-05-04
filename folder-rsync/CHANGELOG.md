@@ -2,7 +2,7 @@
 
 ## 0.3.4
 
-- Added Changelog.md
+- Added CAHNGELOG.md
 
 ## 0.1.2
 
